@@ -1,11 +1,11 @@
 ### 👋 😁   H e y y y a  I'm MoodyBones, aka Mel Jones
 
-- 🐨 I'm from Melbourne, Australia and live in **BERLIN!**
-- 💝 I'm a self-taught Frontend Dev, I love CSS and building accessible & flexible designs & systems
-- 🌱 JavaScript is fun! I studied the fundamentals, I know a bit of React and Vue and I’m currently playing around with Static-Site Generators Gridsome & Gatsby
-- 👐 I volunteer building sites for [Sea-Watch.org](https://github.com/sea-watch)
-- 🔥 I've been coding for about 18 months, and I'm job hunting right NOW
-- 📫 Get in touch..! jones.mel@gmail.com
+- 🐨 I'm a Frontend Developer from Melbourne, Australia and live in **BERLIN!**
+- 🌱 My current stack: Vuejs, Gridsome, GraphQL, Tailwind CSS, Netlify CMS & i18n
+- 💝 I volunteer building sites for [Sea-Watch.org](https://github.com/sea-watch)
+- 🔥 I'm mostly self-taught. I've been coding for about 18 months and I'm open to job offers!
+- 📫 Get in touch..! jones.mel@gmail.com or [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/) or [tweet me](https://twitter.com/_moodybones)
+
 
 <!--
 **MoodyBones/MoodyBones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
