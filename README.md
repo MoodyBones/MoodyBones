@@ -10,7 +10,7 @@
 - I love learning by building projects, do you have a project I could help with?
 
 ### 🌱&nbsp;&nbsp; STACK
-- My stack: Vue.js, Gridsome, Gatsby (React), GraphQL, TailwindCSS, SCSS, Netlify, CMS, i18n, a11y & really love coding web (CSS & GSAP) animation.
+- My current stack: Vue.js, Gridsome, Gatsby (React), GraphQL, TailwindCSS, SCSS, Styled Components, Netlify, CMS, i18n, a11y & I'm a HUGE FAN OF WEB (CSS & GSAP) ANIMATION.
 
 ### 📫&nbsp;&nbsp; CONTACT
 - I'm looking for frontend opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/) or [Twitter](https://twitter.com/_moodybones).
