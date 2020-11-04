@@ -1,10 +1,10 @@
 ### 👋 😁   H e y y y a  I'm MoodyBones, aka Mel Jones
 
-- 🐨 I'm a Frontend Developer from Melbourne, Australia and live in **BERLIN!**
-- 🌱 My current stack: Vuejs, Gridsome, GraphQL, Tailwind CSS, Netlify CMS & i18n
-- 💝 I volunteer building sites for [Sea-Watch.org](https://github.com/sea-watch)
-- 🔥 I'm mostly self-taught. I've been coding for about 18 months and I'm open to job offers!
-- 📫 Get in touch..! jones.mel@gmail.com or [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/) or [tweet me](https://twitter.com/_moodybones)
+- 🐨&nbsp;&nbsp;  I'm a Frontend Developer from Melbourne, Australia and live in **BERLIN!**
+- 🌱&nbsp;&nbsp;  My current stack: Vuejs, Gridsome, GraphQL, Tailwind CSS, Netlify CMS & i18n
+- 💝&nbsp;&nbsp;  I volunteer building sites for [Sea-Watch.org](https://github.com/sea-watch)
+- 🔥&nbsp;&nbsp;  I'm mostly self-taught. I've been coding for about 18 months and I'm open to job offers!
+- 📫&nbsp;&nbsp;  Get in touch..! jones.mel@gmail.com or [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/) or [tweet me](https://twitter.com/_moodybones)
 
 
 <!--
