@@ -1,19 +1,20 @@
 # 👋 😁&nbsp;&nbsp;&nbsp;&nbsp;   Hey I'm [Mel Jones](https://meljones.netlify.app/)
 
 ### ⭐&nbsp;&nbsp; ABOUT
-- I'm a Front-end Developer from Melbourne and live in **Berlin.**
-- I've been coding for 2 years, I'm mostly self-taught and I'm always learning, right now my studies are focussed on [Vue 3](https://github.com/MoodyBones/Vue-3-Studies) & [Web Animation](https://github.com/MoodyBones/Web-Animation-Studies).
+- I'm a Frontend Developer from Melbourne and live in **Berlin.**
+- I've been coding for 2 years, I'm mostly self-taught and I'm always learning. Right now my studies are focussed on [Vue 3](https://github.com/MoodyBones/Vue-3-Studies) & [Web Animation](https://github.com/MoodyBones/Web-Animation-Studies).
+- In April 2021 I began working at an awesome Berlin Startup called [HYRE](https://hyretalents.com/). We connect students and companies! 
 
 ### 💝&nbsp;&nbsp; PROJECTS
-- I volunteered my frontend skills to the humanitarian aid NGO [Sea-Watch.org](https://github.com/sea-watch). 
+- I volunteer my frontend skills to the humanitarian aid NGO [Sea-Watch.org](https://github.com/sea-watch). 
 - Check out the projects I built [here](https://losfuerlesbos.com/) and [here](https://stiftung-seenotrettung.org/de/).
 - I love learning by building projects, do you have a project I could help with?
 
 ### 🌱&nbsp;&nbsp; STACK
-- My current stack: Vue.js, Gridsome, Gatsby (React), GraphQL, TailwindCSS, SCSS, Styled Components, Netlify, CMS, i18n, a11y & I'm a HUGE FAN OF WEB (CSS & GSAP) ANIMATION.
+- I enjoy working with: Vue.js, Nuxt, Gridsome, GraphQL, TailwindCSS, SCSS, Netlify, Headless CMS, i18n, a11y & I'm a big fan of Web Animation (CSS & GSAP).
 
 ### 📫&nbsp;&nbsp; CONTACT
-- I'm looking for frontend opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/) or [Twitter](https://twitter.com/_moodybones).
+- Find me on [Twitter](https://twitter.com/_moodybones), [CodePen](https://codepen.io/MoodyBones) and [LinkedIn](https://www.linkedin.com/in/mel-jones-4a5835182/).
 
 
 <!--
