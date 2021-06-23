@@ -1,9 +1,9 @@
-# 👋 😁&nbsp;&nbsp;&nbsp;&nbsp;   Hey I'm [Mel Jones](https://meljones.netlify.app/)
+# 👋 😁&nbsp;&nbsp;&nbsp;&nbsp;   Hey I'm [Mel Jones](https://moodybones.com/)
 
 ### ⭐&nbsp;&nbsp; ABOUT
 - I'm a Frontend Developer from Melbourne and live in **Berlin.**
 - I've been coding for 2 years, I'm mostly self-taught and I'm always learning. Right now my studies are focussed on [Vue 3](https://github.com/MoodyBones/Vue-3-Studies) & [Web Animation](https://github.com/MoodyBones/Web-Animation-Studies).
-- In April 2021 I began working at an awesome Berlin Startup called [HYRE](https://hyretalents.com/). We connect students and companies! 
+- In April 2021 I began working at an awesome HR Tech Berlin Startup called [HYRE](https://hyretalents.com/). We connect juniors and companies! 
 
 ### 💝&nbsp;&nbsp; PROJECTS
 - I volunteer my frontend skills to the humanitarian aid NGO [Sea-Watch.org](https://github.com/sea-watch). 
