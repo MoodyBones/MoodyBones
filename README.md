@@ -4,8 +4,9 @@ A Frontend Developer, Design Systems and CX Professional. After 11 years in Euro
     
  
 **MEL CARES ABOUT:**
-- trust, openness, creativity.
-- patterns, context, learning.
-- communication, metrics and milestones.
+TRUST &#8226; OPENNESS &#8226; CREATIVITY 
+&#8226; PATTERNS &#8226; CONTEXT &#8226; LEARNING 
+&#8226; COMMUNICATION &#8226; METRICS &#8226; CELEBRATION
+
 
 ![](https://media.giphy.com/media/xlMWh89tib67i2jSJO/giphy.gif)
